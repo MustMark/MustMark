@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustmark&show_icons=true&&locale=en&layout=compact" alt="mustmark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustmark&show_icons=true&&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="mustmark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustmark&show_icons=true&locale=en" alt="mustmark" /></p>
 
